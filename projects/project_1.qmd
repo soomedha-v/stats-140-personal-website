@@ -1,10 +1,11 @@
 ---
-date: "Feb 26, 2025"
+date: "June 4, 2024"
 title: "Project 1"
 author: "Soomedha Vasudevan"
 ---
 
+## Air Quality in Senegal Research  
 
-```{r}
-print(1:10)
-```
+- Designed machine learning models (e.g., decision trees, random forests) to identify drivers of air pollution with a 72% accuracy rate.
+- Utilized Python and R for data cleaning, hypothesis testing, and statistical analysis.
+- Applied principal component analysis (PCA) to optimize feature selection for predictive modeling.

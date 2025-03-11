@@ -1,11 +1,11 @@
 ---
-date: "Feb 26, 2025"
+date: "January 8, 2025"
 title: "Project 2"
 author: "Soomedha Vasudevan"
 ---
 
+Coastal Dune Vegetation Mapping Research  
 
-```{r}
-print(11:20)
-```
-
+- Digitized and organized coastal data from raw data sheets into digital Microsoft Excel sheets for analysis.
+- Performed exploratory data analysis using R to determine geographic trends and find discrepancies in data.
+- Processed different information separated by tracts and used a 3D drone data visualization map to classify different plants based on near-infrared light wavelengths and overall shape.

@@ -11,21 +11,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 26, 2025\n\n\nProject 1\n\n\nSoomedha Vasudevan\n\n\n\n\nFeb 26, 2025\n\n\nProject 2\n\n\nSoomedha Vasudevan\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 4, 2024\n\n\nProject 1\n\n\nSoomedha Vasudevan\n\n\n\n\nJan 8, 2025\n\n\nProject 2\n\n\nSoomedha Vasudevan\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_1.html",
     "href": "projects/project_1.html",
     "title": "Project 1",
     "section": "",
-    "text": "print(1:10)\n\n [1]  1  2  3  4  5  6  7  8  9 10"
+    "text": "Designed machine learning models (e.g., decision trees, random forests) to identify drivers of air pollution with a 72% accuracy rate.\nUtilized Python and R for data cleaning, hypothesis testing, and statistical analysis.\nApplied principal component analysis (PCA) to optimize feature selection for predictive modeling."
+  },
+  {
+    "objectID": "projects/project_1.html#air-quality-in-senegal-research",
+    "href": "projects/project_1.html#air-quality-in-senegal-research",
+    "title": "Project 1",
+    "section": "",
+    "text": "Designed machine learning models (e.g., decision trees, random forests) to identify drivers of air pollution with a 72% accuracy rate.\nUtilized Python and R for data cleaning, hypothesis testing, and statistical analysis.\nApplied principal component analysis (PCA) to optimize feature selection for predictive modeling."
   },
   {
     "objectID": "projects/project_2.html",
     "href": "projects/project_2.html",
     "title": "Project 2",
     "section": "",
-    "text": "print(11:20)\n\n [1] 11 12 13 14 15 16 17 18 19 20"
+    "text": "Coastal Dune Vegetation Mapping Research\n\nDigitized and organized coastal data from raw data sheets into digital Microsoft Excel sheets for analysis.\nPerformed exploratory data analysis using R to determine geographic trends and find discrepancies in data.\nProcessed different information separated by tracts and used a 3D drone data visualization map to classify different plants based on near-infrared light wavelengths and overall shape."
   },
   {
     "objectID": "index.html",
