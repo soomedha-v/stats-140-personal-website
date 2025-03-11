@@ -1,11 +1,15 @@
 ---
-date: "June 4, 2024"
-title: "Project 1"
+title: "Unlocking the Defensive Code: Exploring the Impact of Physical Attributes on NBA Rookie Defense"
 author: "Soomedha Vasudevan"
+date: "2024-04-01"
+categories: [Basketball, Sports Analytics, Machine Learning]
+link: "https://www.bruinsportsanalytics.com/post/unlocking-the-defensive-code"
 ---
 
-## Air Quality in Senegal Research  
+## Description  
+This project analyzes the relationship between NBA rookies' physical attributes—such as height, wingspan, and weight—and their defensive performance. Using data from the NBA rookie combine and season statistics, we investigate whether traits like wingspan-to-height ratio correlate with defensive metrics such as steals, blocks, and rebounds.  
 
-- Designed machine learning models (e.g., decision trees, random forests) to identify drivers of air pollution with a 72% accuracy rate.
-- Utilized Python and R for data cleaning, hypothesis testing, and statistical analysis.
-- Applied principal component analysis (PCA) to optimize feature selection for predictive modeling.
+## Summary  
+While initial hypotheses suggested that physical traits would strongly influence defensive stats, our analysis found weak correlations between attributes and performance. A Random Forest Regressor model was used to predict defensive metrics, but results showed limited predictive power for steals and blocks. However, rebounds exhibited a stronger correlation with physical traits, suggesting that while certain attributes may provide an advantage, defensive ability is influenced by more than just measurable factors. This project highlights the importance of considering intangibles like positioning, game awareness, and strategy when evaluating a player’s defensive potential.  
+
+🔗 **Read more:** [Unlocking the Defensive Code](https://www.bruinsportsanalytics.com/post/unlocking-the-defensive-code)  

@@ -11,28 +11,49 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 4, 2024\n\n\nProject 1\n\n\nSoomedha Vasudevan\n\n\n\n\nJan 8, 2025\n\n\nProject 2\n\n\nSoomedha Vasudevan\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 22, 2023\n\n\nDecoding Surface Dominance: The Skills Behind Tennis Triumphs\n\n\nSoomedha Vasudevan\n\n\n\n\nApr 1, 2024\n\n\nUnlocking the Defensive Code: Exploring the Impact of Physical Attributes on NBA Rookie Defense\n\n\nSoomedha Vasudevan\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_1.html",
     "href": "projects/project_1.html",
-    "title": "Project 1",
+    "title": "Unlocking the Defensive Code: Exploring the Impact of Physical Attributes on NBA Rookie Defense",
     "section": "",
-    "text": "Designed machine learning models (e.g., decision trees, random forests) to identify drivers of air pollution with a 72% accuracy rate.\nUtilized Python and R for data cleaning, hypothesis testing, and statistical analysis.\nApplied principal component analysis (PCA) to optimize feature selection for predictive modeling."
+    "text": "This project analyzes the relationship between NBA rookies’ physical attributes—such as height, wingspan, and weight—and their defensive performance. Using data from the NBA rookie combine and season statistics, we investigate whether traits like wingspan-to-height ratio correlate with defensive metrics such as steals, blocks, and rebounds."
   },
   {
-    "objectID": "projects/project_1.html#air-quality-in-senegal-research",
-    "href": "projects/project_1.html#air-quality-in-senegal-research",
-    "title": "Project 1",
+    "objectID": "projects/project_1.html#description",
+    "href": "projects/project_1.html#description",
+    "title": "Unlocking the Defensive Code: Exploring the Impact of Physical Attributes on NBA Rookie Defense",
     "section": "",
-    "text": "Designed machine learning models (e.g., decision trees, random forests) to identify drivers of air pollution with a 72% accuracy rate.\nUtilized Python and R for data cleaning, hypothesis testing, and statistical analysis.\nApplied principal component analysis (PCA) to optimize feature selection for predictive modeling."
+    "text": "This project analyzes the relationship between NBA rookies’ physical attributes—such as height, wingspan, and weight—and their defensive performance. Using data from the NBA rookie combine and season statistics, we investigate whether traits like wingspan-to-height ratio correlate with defensive metrics such as steals, blocks, and rebounds."
+  },
+  {
+    "objectID": "projects/project_1.html#summary",
+    "href": "projects/project_1.html#summary",
+    "title": "Unlocking the Defensive Code: Exploring the Impact of Physical Attributes on NBA Rookie Defense",
+    "section": "Summary",
+    "text": "Summary\nWhile initial hypotheses suggested that physical traits would strongly influence defensive stats, our analysis found weak correlations between attributes and performance. A Random Forest Regressor model was used to predict defensive metrics, but results showed limited predictive power for steals and blocks. However, rebounds exhibited a stronger correlation with physical traits, suggesting that while certain attributes may provide an advantage, defensive ability is influenced by more than just measurable factors. This project highlights the importance of considering intangibles like positioning, game awareness, and strategy when evaluating a player’s defensive potential.\n🔗 Read more: Unlocking the Defensive Code"
   },
   {
     "objectID": "projects/project_2.html",
     "href": "projects/project_2.html",
-    "title": "Project 2",
+    "title": "Decoding Surface Dominance: The Skills Behind Tennis Triumphs",
     "section": "",
-    "text": "Coastal Dune Vegetation Mapping Research\n\nDigitized and organized coastal data from raw data sheets into digital Microsoft Excel sheets for analysis.\nPerformed exploratory data analysis using R to determine geographic trends and find discrepancies in data.\nProcessed different information separated by tracts and used a 3D drone data visualization map to classify different plants based on near-infrared light wavelengths and overall shape."
+    "text": "This project investigates the impact of tennis court surfaces—clay, hard, and grass—on player performance, focusing on the specific skills that lead to success on each surface. Through analysis of ATP player statistics, the study explores correlations between attributes like rally length, serve percentages, and return performance across different surfaces. The aim is to identify which skills drive success on each court type and how they influence overall win percentages."
+  },
+  {
+    "objectID": "projects/project_2.html#description",
+    "href": "projects/project_2.html#description",
+    "title": "Decoding Surface Dominance: The Skills Behind Tennis Triumphs",
+    "section": "",
+    "text": "This project investigates the impact of tennis court surfaces—clay, hard, and grass—on player performance, focusing on the specific skills that lead to success on each surface. Through analysis of ATP player statistics, the study explores correlations between attributes like rally length, serve percentages, and return performance across different surfaces. The aim is to identify which skills drive success on each court type and how they influence overall win percentages."
+  },
+  {
+    "objectID": "projects/project_2.html#summary",
+    "href": "projects/project_2.html#summary",
+    "title": "Decoding Surface Dominance: The Skills Behind Tennis Triumphs",
+    "section": "Summary",
+    "text": "Summary\nThe study revealed that surface type significantly impacts the skills required for success. On hard courts, a player’s ability to serve effectively and win return points had moderate positive correlations with their win percentage, while rally length had minimal impact. On clay courts, the serve was less important, and return of serve was crucial. Grass courts showed no strong correlation between ace percentages or first serve win rates with win percentage, likely due to a small sample size and slower court surfaces. The project also emphasized how modern tennis is shifting towards more versatile, all-court players, with traditional “specialists” becoming less common.\n🔗 Read more: Decoding Surface Dominance: The Skills Behind Tennis Triumphs"
   },
   {
     "objectID": "index.html",
