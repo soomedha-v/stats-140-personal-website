@@ -1,9 +1,10 @@
 ---
-title: "About"
+title: "About Me"
+toc: true
 ---
 
-About this site
+About Me
 
-```{r}
-1 + 1
-```
+As a junior at UCLA studying Statistics and Data Science with a minor in Accounting, I’ve had the chance to work on a variety of projects that have sharpened my data analysis skills and deepened my understanding of how data can drive real-world impact. I’ve tackled complex research, including analyzing air quality metrics and exploring data in sports analytics, where I used tools like Python, SQL, and R to uncover insights that support meaningful outcomes.
+
+Alongside these experiences, I’ve gained valuable skills in time management, communication, and problem-solving, which I bring to every role. I’m excited to continue building my career in data analysis, especially in settings where I can combine my technical skills with my commitment to service and collaboration. With mentorship from business leaders and experience working closely with teams, I’m eager to contribute and grow in a role that makes a positive difference.
