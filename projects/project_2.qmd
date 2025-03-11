@@ -1,0 +1,11 @@
+---
+date: "Feb 26, 2025"
+title: "Project 2"
+author: "Soomedha Vasudevan"
+---
+
+
+```{r}
+print(11:20)
+```
+

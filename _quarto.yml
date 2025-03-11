@@ -7,8 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Landing Page
-      - href: about.qmd
-        text: About
+      - about.qmd
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
@@ -17,4 +18,7 @@ format:
     toc: true
 
 editor: visual
+
+execute:
+  freeze: auto
 

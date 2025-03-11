@@ -1,0 +1,15 @@
+{
+  "hash": "4da3c13a31d8fae485e78e9aade09d70",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ndate: \"Feb 26, 2025\"\ntitle: \"Project 1\"\nauthor: \"Soomedha Vasudevan\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(1:10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1]  1  2  3  4  5  6  7  8  9 10\n```\n\n\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

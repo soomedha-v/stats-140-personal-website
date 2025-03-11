@@ -7,10 +7,45 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 26, 2025\n\n\nProject 1\n\n\nSoomedha Vasudevan\n\n\n\n\nFeb 26, 2025\n\n\nProject 2\n\n\nSoomedha Vasudevan\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "print(1:10)\n\n [1]  1  2  3  4  5  6  7  8  9 10"
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "print(11:20)\n\n [1] 11 12 13 14 15 16 17 18 19 20"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Soomedha Vasudevan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Download My Resume\nAs a junior at UCLA studying Statistics and Data Science with a minor in Accounting, I’ve had the chance to work on a variety of projects that have sharpened my data analysis skills and deepened my understanding of how data can drive real-world impact. I’ve tackled complex research, including analyzing air quality metrics and exploring data in sports analytics, where I used tools like Python, SQL, and R to uncover insights that support meaningful outcomes.\nAlongside these experiences, I’ve gained valuable skills in time management, communication, and problem-solving, which I bring to every role. I’m excited to continue building my career in data analysis, especially in settings where I can combine my technical skills with my commitment to service and collaboration. With mentorship from business leaders and experience working closely with teams, I’m eager to contribute and grow in a role that makes a positive difference."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Soomedha Vasudevan",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA BS in Statistics and Data Science | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Soomedha Vasudevan",
+    "section": "Experience",
+    "text": "Experience\nResearch Assistant | Coastal Dune Vegetation Mapping Research | Jan 2025 – Present\nResearch Assistant | Air Quality in Senegal Research | June 2024 – Present\nData Consultant Lead | Bruin Sports Analytics | Oct 2023 – Present\nAI Data Analysis Intern | iQor | June 2024 – Sept 2024\nWeb Developer | Bruin Spacecraft Group | Oct 2022 – May 2024"
   }
 ]

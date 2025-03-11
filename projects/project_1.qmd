@@ -1,0 +1,10 @@
+---
+date: "Feb 26, 2025"
+title: "Project 1"
+author: "Soomedha Vasudevan"
+---
+
+
+```{r}
+print(1:10)
+```

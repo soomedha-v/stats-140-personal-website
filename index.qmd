@@ -1,11 +1,37 @@
 ---
-title: "Personal Website"
+title: "Soomedha Vasudevan"
+about:
+  template: trestles
+  image: profile.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/soomedha-v
+    - text: Email
+      url: "mailto:vsoomedha1@gmail.com"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/soomedha-vasudevan-939825235/
 ---
+Download [My Resume](/Soomedha_Vasudevan.pdf)
 
-This is a Quarto website.
+As a junior at UCLA studying Statistics and Data Science with a minor in Accounting, I’ve had the chance to work on a variety of projects that have sharpened my data analysis skills and deepened my understanding of how data can drive real-world impact. I’ve tackled complex research, including analyzing air quality metrics and exploring data in sports analytics, where I used tools like Python, SQL, and R to uncover insights that support meaningful outcomes.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Alongside these experiences, I’ve gained valuable skills in time management, communication, and problem-solving, which I bring to every role. I’m excited to continue building my career in data analysis, especially in settings where I can combine my technical skills with my commitment to service and collaboration. With mentorship from business leaders and experience working closely with teams, I’m eager to contribute and grow in a role that makes a positive difference.
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+BS in Statistics and Data Science | Sept 2022 - June 2026
+
+## Experience
+
+Research Assistant | Coastal Dune Vegetation Mapping Research | Jan 2025 – Present
+
+Research Assistant | Air Quality in Senegal Research | June 2024 – Present
+
+Data Consultant Lead | Bruin Sports Analytics | Oct 2023 – Present
+
+AI Data Analysis Intern | iQor | June 2024 – Sept 2024
+
+Web Developer | Bruin Spacecraft Group | Oct 2022 – May 2024
