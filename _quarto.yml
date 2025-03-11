@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Soomedha Vasudevan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Landing Page
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
